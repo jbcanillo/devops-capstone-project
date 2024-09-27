@@ -1,7 +1,6 @@
-
 ---
-name: DevOps Issue Template
-about: For devops final capstone project
+name: user-story
+about: For Dev-Ops Capstone project
 title: ''
 labels: ''
 assignees: jbcanillo
